@@ -1,6 +1,6 @@
 # DSA
-Repo for DSA practice
-https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/
+Repo for DSA practice 
+ https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/
 
 ** Array questions on Leetcode 1.Easy 
 
